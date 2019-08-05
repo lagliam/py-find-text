@@ -1,6 +1,8 @@
 # pyfindtext
 [![Coverage Status](https://coveralls.io/repos/github/lagliam/pyfindtext/badge.svg)](https://coveralls.io/github/lagliam/pyfindtext)
 [![Build Status](https://travis-ci.org/lagliam/pyfindtext.svg?branch=master)](https://travis-ci.org/lagliam/pyfindtext)
+[![PyPI](https://img.shields.io/pypi/v/pyfindtext.svg?style=flat-square
+)](https://pypi.python.org/pypi/pyfindtext/)
 
 Find a string of text in any file located in a directory.
 

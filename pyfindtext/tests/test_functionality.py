@@ -1,7 +1,7 @@
 import pyfindtext
 import os
 
-test_dir = os.path.abspath('test_files')
+test_dir = os.path.abspath('pyfindtext/tests/test_files')
 
 
 def test_functionality_1():
